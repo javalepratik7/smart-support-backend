@@ -23,7 +23,7 @@ A complete backend system for a smart support ticket management application buil
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/smart-support-backend.git
+git clone https://github.com/javalepratik7/smart-support-backend
 cd smart-support-backend
 ```
 

@@ -48,7 +48,7 @@ PORT=3000
 ```bash
 
 # Seed 50 enteries of tasks
-npm seed
+npm run seed
 
 # Development mode with hot reload
 npm run dev

@@ -46,11 +46,12 @@ PORT=3000
 ### 4. Start the Application
 
 ```bash
+
+# Seed 50 enteries of tasks
+npm seed
+
 # Development mode with hot reload
 npm run dev
-
-# Production mode
-npm start
 ```
 
 ### 5. Verify Installation
